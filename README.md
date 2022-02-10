@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marco-Delgado
+- 👀 I’m interested in AI/ML and Research
+- 🌱 I’m currently learning Intelligence (AI) and Devices (System Architecture)
+- 💞️ I’m looking to collaborate on AI/ML projects/research
+- 📫 How to reach me marcodelgadoaccess [at] gmail [dot] com
